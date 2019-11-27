@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-11-26T09:07:02Z"/>
+
+  <node id="2697472192" lat="24.1499234" lon="120.6096901" version="2" timestamp="2016-09-28T19:13:39Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="2697472196" lat="24.1499993" lon="120.6091832" version="2" timestamp="2016-09-28T19:13:39Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="2697472204" lat="24.1483185" lon="120.6084088" version="2" timestamp="2016-09-28T19:13:39Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="2697472205" lat="24.1481039" lon="120.6082302" version="3" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472206" lat="24.1479624" lon="120.6081156" version="3" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472207" lat="24.1478014" lon="120.6080088" version="3" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472209" lat="24.1476438" lon="120.6079305" version="3" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472211" lat="24.1474943" lon="120.6078715" version="3" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472213" lat="24.1472650" lon="120.6078077" version="2" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472215" lat="24.1471648" lon="120.6077799" version="2" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472217" lat="24.1466297" lon="120.6076268" version="2" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472219" lat="24.1467036" lon="120.6071468" version="1" timestamp="2014-03-02T09:11:36Z" changeset="20860431" uid="1215520" user="bananatw"/>
+  <node id="2697472225" lat="24.1464152" lon="120.6084915" version="3" timestamp="2017-07-07T09:43:57Z" changeset="50103990" uid="1215520" user="bananatw"/>
+  <node id="2697472243" lat="24.1484280" lon="120.6085234" version="2" timestamp="2016-09-28T19:13:39Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="2697472249" lat="24.1482548" lon="120.6091041" version="2" timestamp="2016-09-28T19:13:39Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="2697472251" lat="24.1458667" lon="120.6109474" version="4" timestamp="2016-09-28T18:59:36Z" changeset="42502257" uid="2219338" user="RichRico"/>
+  <node id="2697472304" lat="24.1487612" lon="120.6079540" version="4" timestamp="2016-09-28T19:13:39Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="2697525101" lat="24.1467530" lon="120.6069718" version="2" timestamp="2016-09-23T06:01:55Z" changeset="42364930" uid="3029661" user="saikabhi"/>
+  <node id="2697525102" lat="24.1467716" lon="120.6068755" version="3" timestamp="2016-09-27T09:15:53Z" changeset="42465155" uid="2015224" user="Jothirnadh"/>
+  <node id="2697525368" lat="24.1451863" lon="120.6085026" version="2" timestamp="2016-09-28T18:59:36Z" changeset="42502257" uid="2219338" user="RichRico"/>
+  <node id="2697525370" lat="24.1449807" lon="120.6083966" version="3" timestamp="2016-09-28T18:59:36Z" changeset="42502257" uid="2219338" user="RichRico"/>
+  <node id="2697525371" lat="24.1448865" lon="120.6083148" version="3" timestamp="2016-09-28T18:59:36Z" changeset="42502257" uid="2219338" user="RichRico"/>
+  <node id="2697525373" lat="24.1463195" lon="120.6088955" version="2" timestamp="2016-09-28T18:59:36Z" changeset="42502257" uid="2219338" user="RichRico"/>
+  <node id="2800334673" lat="24.1460919" lon="120.6099255" version="2" timestamp="2016-09-28T18:59:36Z" changeset="42502257" uid="2219338" user="RichRico"/>
+  <node id="4422600727" lat="24.1488881" lon="120.6088573" version="1" timestamp="2016-09-28T19:13:33Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="4422600731" lat="24.1491243" lon="120.6089726" version="1" timestamp="2016-09-28T19:13:33Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="4422600740" lat="24.1494633" lon="120.6090907" version="1" timestamp="2016-09-28T19:13:33Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="4422600745" lat="24.1497545" lon="120.6091577" version="1" timestamp="2016-09-28T19:13:33Z" changeset="42502615" uid="2219338" user="RichRico"/>
+  <node id="5536943730" lat="24.1487348" lon="120.6082774" version="2" timestamp="2018-08-05T05:56:18Z" changeset="61366756" uid="274857" user="Supaplex">
+    <tag k="addr:city" v="臺中市"/>
+    <tag k="addr:country" v="TW"/>
+    <tag k="addr:district" v="南屯區"/>
+    <tag k="addr:full" v="40852臺中市南屯區精科路112號"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="40852"/>
+    <tag k="addr:street" v="精科路"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="路易莎咖啡"/>
+    <tag k="name:en" v="Louisa Coffee"/>
+    <tag k="name:zh" v="路易莎咖啡"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-19:00"/>
+    <tag k="phone" v="+886-4-2359-9671"/>
+    <tag k="website" v="http://www.louisacoffee.co/"/>
+  </node>
+  <way id="264070625" version="3" timestamp="2016-09-28T19:13:34Z" changeset="42502615" uid="2219338" user="RichRico">
+    <nd ref="2697472196"/>
+    <nd ref="4422600745"/>
+    <nd ref="4422600740"/>
+    <nd ref="4422600731"/>
+    <nd ref="4422600727"/>
+    <nd ref="2697472243"/>
+    <nd ref="2697472204"/>
+    <nd ref="2697472205"/>
+    <nd ref="2697472206"/>
+    <nd ref="2697472207"/>
+    <nd ref="2697472209"/>
+    <nd ref="2697472211"/>
+    <nd ref="2697472213"/>
+    <nd ref="2697472215"/>
+    <nd ref="2697472217"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="保安十街"/>
+    <tag k="name:en" v="Bao’an 10th Street"/>
+    <tag k="name:zh" v="保安十街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="264070626" version="4" timestamp="2016-09-28T18:59:33Z" changeset="42502257" uid="2219338" user="RichRico">
+    <nd ref="2697472251"/>
+    <nd ref="2800334673"/>
+    <nd ref="2697525373"/>
+    <nd ref="2697472225"/>
+    <nd ref="2697472217"/>
+    <nd ref="2697472219"/>
+    <nd ref="2697525101"/>
+    <nd ref="2697525102"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文山三街"/>
+    <tag k="name:en" v="Wenshan 3rd Street"/>
+    <tag k="name:zh" v="文山三街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="264070627" version="3" timestamp="2016-09-28T19:13:35Z" changeset="42502615" uid="2219338" user="RichRico">
+    <nd ref="2697472225"/>
+    <nd ref="2697472249"/>
+    <nd ref="2697472192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="保安九街"/>
+    <tag k="name:en" v="Bao’an 9th Street"/>
+    <tag k="name:zh" v="保安九街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="264070628" version="3" timestamp="2016-09-28T19:13:35Z" changeset="42502615" uid="2219338" user="RichRico">
+    <nd ref="2697472249"/>
+    <nd ref="2697472243"/>
+    <nd ref="2697472304"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="文山五街"/>
+    <tag k="name:en" v="Wenshan 5th Street"/>
+    <tag k="name:zh" v="文山五街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="264077260" version="2" timestamp="2016-09-28T18:59:33Z" changeset="42502257" uid="2219338" user="RichRico">
+    <nd ref="2697525373"/>
+    <nd ref="2697525368"/>
+    <nd ref="2697525370"/>
+    <nd ref="2697525371"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="保安八街"/>
+    <tag k="name:en" v="Bao’an 8th Street"/>
+    <tag k="name:zh" v="保安八街"/>
+    <tag k="oneway" v="no"/>
+  </way>
+
+</osm>
